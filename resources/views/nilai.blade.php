@@ -3,7 +3,7 @@
 <div class="container">
     <div class="body">
         <div>
-            <h2>tabel mhs</h2>
+            <h2>Table Mahasiswa</h2>
             <table class="table">
             <thead>
                 <tr>
